@@ -1,3 +1,0 @@
-https://docs.google.com/presentation/d/1-7Kb3laJjJ68mOTF9v0fHImk5vTol0CeE43Sg8hoUXQ/mobilepresent?slide=id.gcb9a0b074_1_0
-https://github.com/panaverse/typescript-node-projects/blob/main/getting-started-exercises.md
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND
